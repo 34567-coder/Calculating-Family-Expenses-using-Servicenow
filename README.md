@@ -12,7 +12,7 @@ Team member: Jithu P Jose
 
 Team Member: Abdullah S
 
-ServiceNow Instance:
+ServiceNow Instance:https://dev317559.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=POzzzQz%2597S%40
 
 Demo Link:
 https://drive.google.com/file/d/1lzMsLzikM2eptYJUQJ19qU_OAMdwRcvv/view?usp=sharing
